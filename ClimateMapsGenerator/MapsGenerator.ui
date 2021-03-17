@@ -684,7 +684,7 @@
                             <bool>false</bool>
                            </property>
                            <property name="text">
-                            <string>Hydrograpy</string>
+                            <string>Hydrography</string>
                            </property>
                           </widget>
                          </item>
@@ -712,7 +712,7 @@
                             <bool>false</bool>
                            </property>
                            <property name="text">
-                            <string>Stations</string>
+                            <string>Meteo stations</string>
                            </property>
                           </widget>
                          </item>
