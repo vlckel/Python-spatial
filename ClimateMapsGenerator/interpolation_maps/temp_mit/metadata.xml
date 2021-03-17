@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="cs"><Esri><CreaDate>20170625</CreaDate><CreaTime>23352600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\3D Analyst Tools.tbx\Idw" Date="20170625" Time="233526">Idw C:/Users/Efox/Desktop/GIG/UPV/DEVAPP/Final_Project/project_Option_B/project_final/EstacionesAVAMET_datos.shp TEMP_MIT interpolation_maps\temp_mit 300 2 "VARIABLE 12" #</Process></lineage></DataProperties></Esri></metadata>
